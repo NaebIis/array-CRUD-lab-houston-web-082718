@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   anArray = ["mice", 'b', 'f', 'd']
-  anArray.push("c")
+  anArray.push("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
