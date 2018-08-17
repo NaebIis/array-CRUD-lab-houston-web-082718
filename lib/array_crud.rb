@@ -17,12 +17,12 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  anArray = ["mice", 'b', 'f', 'arrays!']
+  anArray = ["wow", 'b', 'f', 'arrays!']
   anArray.pop
 end
 
 def remove_element_from_start_of_array(array)
-  
+  anArray = ["wow", 'b', 'f', 'arrays!']
 end
 
 def retrieve_element_from_index(array, index_number)
