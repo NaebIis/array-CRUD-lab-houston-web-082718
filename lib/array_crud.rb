@@ -13,11 +13,12 @@ end
 
 def add_element_to_start_of_array(array, element)
   anArray = ["mice", 'b', 'f', 'd']
-  anArray.unshift("first")
+  anArray.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-  
+  anArray = ["mice", 'b', 'f', 'd']
+  anArray.pop
 end
 
 def remove_element_from_start_of_array(array)
