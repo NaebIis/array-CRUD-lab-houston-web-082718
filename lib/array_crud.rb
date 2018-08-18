@@ -37,6 +37,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  anArray = ["wow", 'b', 'f', 'arrays!']
+  anArray = ["wow", 'b', 'am', 'arrays!']
   anArray.last
 end
