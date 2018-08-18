@@ -27,7 +27,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  anArray = ["wow", 'b', 'f', 'arrays!']
+  anArray = ["wow", 'b', 'am', 'arrays!']
   anArray[2]
 end
 
